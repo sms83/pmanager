@@ -19,6 +19,7 @@ module.exports = function(grunt) {
             "npm install http-errors",
             "npm install jasmine --save-dev",
             "npm install request --save",
+            "npm run init-test",
             "npm test",
             ].join('&&')  
         } ,
