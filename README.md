@@ -6,5 +6,3 @@ Run the command</br>
 <b>docker-compose up</b></br>
 
 
-
-Note:If DB connection issue, Please change "mongo:" to "localhost:" in server.js file
