@@ -17,7 +17,8 @@ module.exports = function(grunt) {
             "npm install -g grunt-cli",
             "npm install grunt --save-dev",
             "npm install http-errors",
-            "npm install grunt-nodemon"
+            "npm install grunt-nodemon",
+            "npm test",
             ].join('&&')  
         } ,
     nodemon: {
